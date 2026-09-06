@@ -220,6 +220,13 @@ Du får en tydelig før/efter-måling og kan se, hvilke ændringer der faktisk f
 
 ---
 
+### Før optimering
+
+- index.html: 85
+- contact.html: 77
+- games.html: 85
+- news.html: 85
+
 # Opgave 2 – Optimér billeder og konvertér til WebP
 
 Sitet anvender flere billeder i JPG-format.
